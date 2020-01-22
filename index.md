@@ -3,7 +3,7 @@ title: Welcome.
 layout: home
 description:
 image: assets/images/bg-welcome.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
