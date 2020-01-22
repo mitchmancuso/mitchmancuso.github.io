@@ -1,7 +1,7 @@
 ---
-title: Home
+title: Welcome.
 layout: home
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description:
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
