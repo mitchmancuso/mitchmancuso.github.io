@@ -4,7 +4,7 @@ subtitle: Projects and Portfolio
 email: mitch-github@outlook.com
 description: A site for coding projects and portfolio items.
 baseurl: ""
-url: "mitchmancuso/mitchmancuso.github.io"
+url: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
