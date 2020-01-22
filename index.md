@@ -2,7 +2,7 @@
 title: Welcome.
 layout: home
 description:
-image: assets/images/pic07.jpg
+image: assets/images/bg-welcome.jpg
 nav-menu: true
 ---
 
