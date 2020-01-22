@@ -22,8 +22,8 @@ nav-menu: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		<a href="" class="image">
+			<img src="assets/images/pi-dashboard-tile.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -31,7 +31,9 @@ nav-menu: false
 					<h3>Raspberry Pi Dashboard</h3>
 				</header>
 				<p>A command-line based dashboard created for the Raspberry Pi that can retrieve news headlines, the current weather, and statutory holidays. It was built using C++ and ncurses for a unique text-based UI. It connects to various APIs and is meant to be a continually running on-screen information hub that can be customized for each user.
-				<br><b>Languages & Frameworks: </b>C++, ncurses</p>
+				<br>
+				<br>
+				<b>Languages & Frameworks: </b>C++, ncurses</p>
 				<ul class="actions">
 					<li><a href="pi-dash.html" class="button">Learn More</a></li>
 				</ul>
