@@ -13,9 +13,9 @@ nav-menu: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Completed and In-Progress Projects</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>The following collection of projects contains works both completed and in-progress. Where applicable, instructions for compiling and small videos showing the main features and interface have been included. These projects have been completed using various programming languages and contain both practical and academic applications.</p>
 	</div>
 </section>
 
@@ -28,11 +28,12 @@ nav-menu: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Raspberry Pi Dashboard</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>A command-line based dashboard created for the Raspberry Pi that can retrieve news headlines, the current weather, and statutory holidays. It was built using C++ and ncurses for a unique text-based UI. It connects to various APIs and is meant to be a continually running on-screen information hub that can be customized for each user.</p>
+				<b>Languages & Frameworks: </b>C++, ncurses
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="pi-dash.html" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
