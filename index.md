@@ -54,13 +54,13 @@ nav-menu: false
                 				<br>
                 				<b>Languages & Frameworks: </b>Java, CORBA, SQL</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/mitchmancuso/CORBA-Share" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
