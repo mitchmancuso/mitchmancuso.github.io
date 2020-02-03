@@ -35,21 +35,24 @@ nav-menu: false
 				<br>
 				<b>Languages & Frameworks: </b>C++, ncurses</p>
 				<ul class="actions">
-					<li><a href="pi-dash.html" class="button">Learn More</a></li>
+					<li><a href="https://github.com/mitchmancuso/Pi-Dash" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+		<a href="" class="image">
+			<img src="assets/images/CORBA-share-tile.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>CORBA File Sharing</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>A P2P file sharing application built in Java using CORBA (Common Object Request Broker) and MySQL. This program allows users to share files over a network and act as both client and server when requesting or receiving file sharing requests. Files are stored and downloaded locally to a shared or non-shared folder at the user's discretion. Options also exist to unshare files (make it unavailable for downloading on the server) or sharing files previously marked as private.
+                				<br>
+                				<br>
+                				<b>Languages & Frameworks: </b>Java, CORBA, SQL</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
