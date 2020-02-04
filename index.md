@@ -33,7 +33,7 @@ nav-menu: false
 				<p>A command-line based dashboard created for the Raspberry Pi that can retrieve news headlines, the current weather, and statutory holidays. It was built using C++ and ncurses for a unique text-based UI. It connects to various APIs and is meant to be a continually running on-screen information hub that can be customized for each user.
 				<br>
 				<br>
-				<b>Languages & Frameworks: </b>C++, ncurses</p>
+				<b>Languages, Technologies, and Tools: </b>C++, ncurses</p>
 				<ul class="actions">
 					<li><a href="https://github.com/mitchmancuso/Pi-Dash" class="button">Learn More</a></li>
 				</ul>
@@ -52,7 +52,7 @@ nav-menu: false
 				<p>A P2P file sharing application built in Java using CORBA (Common Object Request Broker) and MySQL. This program allows users to share files over a network and act as both client and server when requesting or receiving file sharing requests. Files are stored and downloaded locally to a shared or non-shared folder at the user's discretion. Options also exist to unshare files (make it unavailable for downloading on the server) or sharing files previously marked as private.
                 				<br>
                 				<br>
-                				<b>Languages & Frameworks: </b>Java, CORBA, SQL</p>
+                				<b>Languages, Technologies, and Tools: </b>Java, CORBA, SQL</p>
 				<ul class="actions">
 					<li><a href="https://github.com/mitchmancuso/CORBA-Share" class="button">Learn more</a></li>
 				</ul>
@@ -71,7 +71,7 @@ nav-menu: false
     				<p>A program built in C that is able to accept PGM images and encode them using the Lempel-Ziv algorithm for a user determined buffer size. This program is able to read PGM images and encode them into a .LZ file that contains match sequence codes that can then be decoded back to a lossless PGM image that is identical to the original.
                     				<br>
                     				<br>
-                    				<b>Languages & Frameworks: </b>C</p>
+                    				<b>Languages, Technologies, and Tools: </b>C</p>
     				<ul class="actions">
     					<li><a href="https://github.com/mitchmancuso/LZ77-PGM" class="button">Learn more</a></li>
     				</ul>
