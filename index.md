@@ -3,7 +3,6 @@ title: Welcome.
 layout: home
 description:
 image: assets/images/bg-welcome.jpg
-nav-menu: false
 ---
 
 <!-- Main -->
@@ -100,5 +99,26 @@ nav-menu: false
     		</div>
     	</section>
 </section>
+	<section>
+    		<a href="" class="image">
+    			<img src="assets/images/lz77-tile.png" alt="" data-position="center center" />
+    		</a>
+    		<div class="content">
+    			<div class="inner">
+    				<header class="major">
+    					<h3>Job Hunt Tracking System (Unnamed) (In-Progress)</h3>
+    				</header>
+    				<p>A kanban board style job tracking system that lets job seekers conveniently track their application progress with a high degree of clarity and organization. Job hunters can save interesting postings, set reminders, move their application along the screening process and more!
+                    				<br>
+                    				<br>
+                    				<b>Languages, Technologies, and Tools: </b>MongoDB, Express, React, Node JS</p>
+                    				<!-- 
+    				<ul class="actions">
+    					<li><a href="https://github.com/mitchmancuso/LZ77-PGM" class="button">Learn more</a></li>
+    				</ul>
+    				-->
+    			</div>
+    		</div>
+    	</section>
 
 </div>
