@@ -80,7 +80,7 @@ nav-menu: false
     	</section>
 		<section>
     		<a href="" class="image">
-    			<img src="assets/images/CORBA-share-tile.png" alt="" data-position="top center" />
+    			<img src="assets/images/London-WayFind-tile.png" alt="" data-position="top center" />
     		</a>
     		<div class="content">
     			<div class="inner">
@@ -90,7 +90,7 @@ nav-menu: false
     				<p>An iOS application created using xCode and Swift which is meant to serve as a re-design of the City of London's transit application. Currently, the London Transit Commission's bus schedule information is available on a first-party basis from their website. The goal of this application is to utilize a number of William Lidwell's Universal Principles of Design in order to turn the web application into a native one that provides a rich and accessible experience for users.
                     				<br>
                                     <br>
-                                    <b>Interactive Demo: </b><a href="https://www.figma.com/proto/M0qi0bQ77QFDwecUPa6u46/London-WayFind-Interactive-Prototype?node-id=14%3A218&scaling=scale-down">Figma Prototype</a></p>
+                                    <b>Interactive Demo: </b><a href="https://www.figma.com/proto/M0qi0bQ77QFDwecUPa6u46/London-WayFind-Interactive-Prototype?node-id=14%3A218&scaling=scale-down">Figma Prototype</a>
                     				<br>
                     				<b>Languages, Technologies, and Tools: </b>Swift, Objective-C, Cocoapods, Figma, Adobe XD</p>
     				<ul class="actions">
