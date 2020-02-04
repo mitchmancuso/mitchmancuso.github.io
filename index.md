@@ -98,7 +98,6 @@ image: assets/images/bg-welcome.jpg
     			</div>
     		</div>
     	</section>
-</section>
 	<section>
     		<a href="" class="image">
     			<img src="assets/images/lz77-tile.png" alt="" data-position="center center" />
@@ -120,5 +119,5 @@ image: assets/images/bg-welcome.jpg
     			</div>
     		</div>
     	</section>
-
+</section>
 </div>
