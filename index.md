@@ -78,22 +78,27 @@ nav-menu: false
     			</div>
     		</div>
     	</section>
-	<section>
-		<a href="" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
+		<section>
+    		<a href="" class="image">
+    			<img src="assets/images/CORBA-share-tile.png" alt="" data-position="top center" />
+    		</a>
+    		<div class="content">
+    			<div class="inner">
+    				<header class="major">
+    					<h3>London WayFind</h3>
+    				</header>
+    				<p>An iOS application created using xCode and Swift which is meant to serve as a re-design of the City of London's transit application. Currently, the London Transit Commission's bus schedule information is available on a first-party basis from their website. The goal of this application is to utilize a number of William Lidwell's Universal Principles of Design in order to turn the web application into a native one that provides a rich and accessible experience for users.
+                    				<br>
+                                    <br>
+                                    <b>Interactive Demo: </b><a href="https://www.figma.com/proto/M0qi0bQ77QFDwecUPa6u46/London-WayFind-Interactive-Prototype?node-id=14%3A218&scaling=scale-down">Figma Prototype</a></p>
+                    				<br>
+                    				<b>Languages, Technologies, and Tools: </b>Swift, Objective-C, Cocoapods, Figma, Adobe XD</p>
+    				<ul class="actions">
+    					<li><a href="https://github.com/mitchmancuso/London-WayFind" class="button">Learn more</a></li>
+    				</ul>
+    			</div>
+    		</div>
+    	</section>
 </section>
 
 </div>
