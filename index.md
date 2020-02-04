@@ -100,7 +100,7 @@ image: assets/images/bg-welcome.jpg
     	</section>
 	<section>
     		<a href="" class="image">
-    			<img src="assets/images/lz77-tile.png" alt="" data-position="center center" />
+    			<img src="assets/images/job-hunt-tile.png" alt="" data-position="center center" />
     		</a>
     		<div class="content">
     			<div class="inner">
