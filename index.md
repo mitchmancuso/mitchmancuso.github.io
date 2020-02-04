@@ -60,6 +60,25 @@ nav-menu: false
 		</div>
 	</section>
 	<section>
+    		<a href="" class="image">
+    			<img src="assets/images/lz77-tile.png" alt="" data-position="center center" />
+    		</a>
+    		<div class="content">
+    			<div class="inner">
+    				<header class="major">
+    					<h3>PGM Encoder and Decoder (LZ77)</h3>
+    				</header>
+    				<p>A program built in C that is able to accept PGM images and encode them using the Lempel-Ziv algorithm for a user determined buffer size. This program is able to read PGM images and encode them into a .LZ file that contains match sequence codes that can then be decoded back to a lossless PGM image that is identical to the original.
+                    				<br>
+                    				<br>
+                    				<b>Languages & Frameworks: </b>C</p>
+    				<ul class="actions">
+    					<li><a href="https://github.com/mitchmancuso/LZ77-PGM" class="button">Learn more</a></li>
+    				</ul>
+    			</div>
+    		</div>
+    	</section>
+	<section>
 		<a href="" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
